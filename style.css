@@ -11,8 +11,6 @@ body {
 }
 
 
-
-
 .container {
     display: flex;
     gap: 10px;
@@ -176,4 +174,5 @@ body {
 .buttons .undo  {
     color: black;
 }
+
 
