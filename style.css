@@ -9,9 +9,6 @@ body {
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
-
-
 .container {
     display: flex;
     gap: 10px;
@@ -175,6 +172,7 @@ body {
 .buttons .undo  {
     color: black;
 }
+
 
 
 
