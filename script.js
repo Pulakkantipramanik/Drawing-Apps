@@ -1,4 +1,5 @@
 
+
 const canvas = 
     document.querySelector("canvas"),
 toolBtns = 
@@ -225,6 +226,7 @@ canvas.addEventListener("mouseup", () => isDrawing = false);
 
 // Event listener for the undo button
 undoBtn.addEventListener("click", undo);
+
 
 
 
